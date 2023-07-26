@@ -16,11 +16,11 @@ import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import EntypoIcons from 'react-native-vector-icons/Entypo';
 
 import {COLORS} from '../utils/theme';
-import {version as hmsRNSdkVersion} from '../../../package.json';
+import {version as hmsRNSdkVersion} from '@100mslive/react-native-hms/package.json';
 import {
   ios as hmsIOSSdkVersion,
   android as hmsAndroidSdkVersion,
-} from '../../../sdk-versions.json';
+} from '@100mslive/react-native-hms/sdk-versions.json';
 import {SwitchRow} from './SwitchRow';
 import {RootState} from '../redux';
 import {
