@@ -8,5 +8,5 @@ You can check your JDK version as mentioned below -
 3. Open Android Studio > Settings > Build, Execution, Deployment > Build Tools > Gradle
 4. Search for "Gradle JDK" field, "JDK 11" should be selected as value
 
-The Google Drive Link below contains all files including node_modules, Debug APK, Git ignored files, etc
+The Google Drive Link below contains all files including node_modules, Git ignored files, etc
 - https://drive.google.com/file/d/1XtpBZmTT20pJz3-2KnCbieFHetqnmpCa/
